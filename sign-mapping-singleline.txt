@@ -1,0 +1,112 @@
+Stop-Signs.png|You must come to a complete stop at the sign, stop line, pedestrian crosswalk or curb.|This eight-sided shape always means stop. You must come to a complete stop at the sign, stop line, pedestrian crosswalk or curb. Wait for any vehicle or pedestrian to clear the way. At some intersections you’ll find a sign beneath the stop sign that reads “All Way” or “4 Way.” At these intersections all vehicles on all roads leading into the intersection must stop. If you get to the intersection at the same time as other vehicles, the driver on the left must yield to the driver on the right.
+
+Yield-Signs.png|You must slow down as you come to the intersection. Be prepared to stop.| You must slow down as you come to the intersection. Be prepared to stop. Let any vehicles, pedestrians or bicyclists safely pass before you proceed.
+
+School-Signs.png|Be ready to slow down or stop for children crossing|Watch out for children crossing the street or playing. Be ready to slow down or stop. Obey speed limits and signals from any crossing guards. A second sign with an arrow may show the actual location of the sidewalk.
+
+Do-Not-Enter.png|You cannot drive in that direction| These signs mean you cannot drive in that direction. If you drive past these signs you are going in the wrong direction and could get into a head-on crash with vehicles headed your way. Cautiously turn around
+
+Wrong-Way.png| " | "
+
+One-Way-1.png|Traffic flows only in the direction of the arrow.| Traffic flows only in the direction of the arrow.
+
+One-Way-2.png| " | "
+
+No-Left.png|Left turns are against the law.|Left turns are against the law. In Virginia, U-turns are considered as two left turns and are illegal if this sign is posted.
+
+No-Right.png|Right turns are illegal.|Right turns are illegal. Do not make a right turn when you see this sign.
+
+No-U-Turn.png|U-turns are illegal. | U-turns are illegal. Do not make a U-turn when you see this sign.
+
+No-Turn-On-Red.png|You may not turn on the red light.|You may not turn on the red light. Wait for the signal to turn green.
+
+Do-Not-Pass.png|You may not pass cars ahead of you in your lane, even if the way is clear. |This sign marks the beginning of a no passing zone. You may not pass cars ahead of you in your lane, even if the way is clear.
+
+Green-Yield.png|Stop and look for oncoming traffic, then proceed with caution.|This sign is used with a traffic signal. It tells you that the traffic turning left at a green light does not have the right-of-way and must yield to traffic coming from the other direction. Stop and look for oncoming traffic, then proceed with caution.
+
+Stay-Right.png|A traffic island, median or barrier is ahead. Keep to the side indicated by the arrow.| A traffic island, median or barrier is ahead. Keep to the side indicated by the arrow.
+
+One-Turn-Only.png|Traffic in the lane must turn in the direction of the arrow.|These signs are used where turns are required or where special turning movements are permitted for specific lanes. Traffic in the lane must turn in the direction of the arrow.
+
+Two-Turns-Only.png| " | "
+
+HOV.png|The lanes are reserved for buses and vehicles with a driver and one or more passengers as specified on the sign.|These signs indicate lanes reserved for buses and vehicles with a driver and one or more passengers as specified on the sign.
+
+Reserved-Parking.png|Parking spaces marked with these signs are reserved for people with disabled parking permits.|Parking spaces marked with these signs are reserved for people with disabled parking permits.
+
+Max-Exit-Speed.png| This sign indicates the maximum safe speed for a highway exit.| This sign indicates the maximum safe speed for a highway exit.
+
+Speed-Limit-Ahead.png|Prepare to reduce your speed; the speed limit is changing ahead.|Prepare to reduce your speed; the speed limit is changing ahead.
+
+Stop-Ahead.png|A stop sign sign is ahead. Slow down and be ready to stop.|A stop sign is ahead. Slow down and be ready to stop.
+
+Yield-Ahead.png|A yield sign is ahead. Slow down and be ready to stop.|A yield sign is ahead. Slow down and be ready to stop.
+
+Signal-Ahead.png|Traffic signals are ahead. Slow down and be ready to stop.|Traffic signals are ahead. Slow down and be ready to stop.
+
+No-Passing.png|You may not pass cars ahead of you in your lane, even if the way is clear.|This sign marks the beginning of a no passing zone. You may not pass cars ahead of you in your lane, even if the way is clear.
+
+Merge.png|Two lanes of traffic moving in the same direction are about to become one.|Two lanes of traffic moving in the same direction are about to become one. Drivers in both lanes are responsible for merging safely.
+
+Reduced-Lane.png|The right lane ends soon. Drivers in the left lane should allow other vehicles to merge smoothly.|The right lane ends soon. Drivers in the right lane must merge left when space opens up. Drivers in the left lane should allow other vehicles to merge smoothly.
+
+Divided-Highway-Start.png|The highway ahead is split into two separate roadways by a median or divider and each roadway is one-way. Keep right.|The highway ahead is split into two separate roadways by a median or divider and each roadway is one-way. Keep right.
+
+Divided-Highway-End.png| The highway ahead no longer has a median or divider. Traffic goes in both directions. Keep right.| The highway ahead no longer has a median or divider. Traffic goes in both directions. Keep right.
+
+Slippery-Road.png|When pavement is wet, reduce your speed. Do not brake hard or change direction suddenly. Increase the distance between your car and the one ahead of you.|When pavement is wet, reduce your speed. Do not brake hard or change direction suddenly. Increase the distance between your car and the one ahead of you.
+
+Clearance.png|Do not proceed if your vehicle is taller than the height shown on the sign.| The overpass ahead has a low clearance. Do not proceed if your vehicle is taller than the height shown on the sign.
+
+Hill.png|A steep grade is ahead. Check your brakes.|A steep grade is ahead. Check your brakes.
+
+Deer-Crossing.png|Slow down for crossing deers, be alert and be ready to stop.|Deer cross the roadway in this area. Slow down, be alert and be ready to stop.
+
+Pedestrian-Crossing.png|Watch for people entering a crosswalk or crossing your path. Slow down and be prepared to stop.|Watch for people entering a crosswalk or crossing your path. Slow down and be prepared to stop. 
+
+Pedestrian-Crossing-2.png|Watch for people entering a crosswalk or crossing your path. Slow down and be prepared to stop. The arrow may show the actual location of the crosswalk.|Watch for people entering a crosswalk or crossing your path. Slow down and be prepared to stop. A second sign with an arrow may show the actual location of the crosswalk.
+
+Bicycle-Crossing-2.png|Drive with caution for crossing bikes. |Bicycles regularly cross or ride beside traffic in this area. Drive with caution. A second sign with an arrow may show the actual location of the bike crossing.
+
+Bicycle-Crossing-1.png| " |Bicycles regularly cross or ride beside traffic in this area. Drive with caution. A second sign with an arrow may show the actual location of the bike crossing. 
+
+Open-Joints.png| Slow down. Open joints on bridges or ramps could cause a motorcyclist to lose control of the motorcycle.| Slow down. Open joints on bridges or ramps could cause a motorcyclist to lose control of the motorcycle. 
+
+Expansion-Joints.png|This sign is used when a joint across lanes creates a bump or is wide enough to cause loss of traction in wet weather.|This sign is used when a joint across lanes creates a bump or is wide enough to cause loss of traction in wet weather.
+
+Four-Way-Intersection.png|Four way intersection is ahead. Be alert for vehicles entering the road on which you are traveling.|An intersection is ahead. Be alert for vehicles entering the road on which you are traveling.
+
+Three-Way-Intersection.png|Three way intersection is ahead. Be alert for vehicles entering the road on which you are traveling. |An intersection is ahead. Be alert for vehicles entering the road on which you are traveling.
+
+Y-Intersection.png|You must bear either right or left ahead.|You must bear either right or left ahead.|An intersection is ahead. Be alert for vehicles entering the road on which you are traveling.
+
+T-Intersection.png|The roadway you are traveling on ends ahead at a stop sign. You must turn right or left after yielding to oncoming traffic and pedestrians.|The roadway you are traveling on ends ahead at a stop sign. You must turn right or left after yielding to oncoming traffic and pedestrians.
+
+Roundabout.png|These intersections may have one or more lanes. Entering traffic must yield the right-of-way to traffic already in the circle and travel in a counter clockwise direction.|These signs indicate a circular intersection with an island in the center is ahead. Also called traffic circles, these intersections may have one or more lanes. Entering traffic must yield the right-of-way to traffic already in the circle and travel in a counter clockwise direction.
+
+Right-Curve.png|The road ahead curves right and a side road joins from the left within the curve.|The road ahead curves right and a side road joins from the left within the curve. Be alert for vehicles entering the roadway you are traveling on.
+
+Sharp-Right.png| Slow down and be prepared for a sharp right turn in the road ahead.| Slow down and be prepared for a sharp right turn in the road ahead.
+
+Sharp-Rights-and-Lefts.png|Slow down and be prepared for the road ahead to turn sharply right, then left.|Slow down and be prepared for the road ahead to turn sharply right, then left.
+
+Right-and-Left-Curves.png| The road ahead curves right, then left.| The road ahead curves right, then left. Slow down.
+
+Curve-and-Speed-Limit.png|The road ahead curves right. Slow down to the safe speed indicated.|The road ahead curves right. Slow down to the safe speed indicated.
+
+Winding-Road.png|The road ahead winds with a series of turns or curves. On all curves, slow down for better control.|The road ahead winds with a series of turns or curves. On all curves, slow down for better control.
+
+Low-Ground-Railroad-Crossing.png|A steep slope where the railroad tracks cross the road may cause the bottom of low vehicles to get caught or drag on the tracks.|A steep slope where the railroad tracks cross the road may cause the bottom of low vehicles to get caught or drag on the tracks.
+
+Railroad-Crossing.png|A warning of a railroad crossing. Look, listen, slow down and be prepared to stop for trains or any vehicles using the rails.| Advance warning signs are placed before a railroad crossing. These signs warn you to look, listen, slow down and be prepared to stop for trains or any vehicles using the rails.
+
+Railroad-Crossbuck.png| " |This sign is a warning of a railroad crossing. Look, listen, slow down and be prepared to stop for trains or any vehicles using the rails. Trains may be approaching from either direction. If there is more than one track, trains may be approaching from either direction on either track.
+
+Crossbuck-With-Lights.png|Flashing lights may be used with crossbuck signs. Always stop when the light begins to flash and be alert for approaching trains.|Do not proceed until all trains or any other vehicles using the rails have passed, the tracks are clear, and the lights are no longer flashing. Be especially alert at multi-track crossings because a second train could be approaching from the opposite direction.
+
+Crossbuck-Light-Gate.png| Remain stopped until the gates are raised and the lights stop flashing.|Gates are used with flashing light signals at some crossings. Stop when the lights begin to flash and before the gate lowers. Remain stopped until the gates are raised and the lights stop flashing. Do not attempt to drive around the lowered gate.
+
+Roadwork-and-Detour.png|These signs indicate a change in the traffic pattern or route ahead. Slow down. Unusual or potentially dangerous conditions are ahead.|These signs indicate a change in the traffic pattern or route ahead. Slow down. Unusual or potentially dangerous conditions are ahead.
+
+Flashing-Arrow-Boards.png|Large flashing arrow boards or flashing message signs in work zones direct drivers to proceed into different traffic lanes and inform them that part of the road ahead is closed.|Large flashing arrow boards or flashing message signs in work zones direct drivers to proceed into different traffic lanes and inform them that part of the road ahead is closed.
+
