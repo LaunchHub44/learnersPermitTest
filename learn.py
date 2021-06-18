@@ -41,36 +41,61 @@ for row in cur.fetchall():
 #print( answers[6][0], answers[6][1])
 #print(questions)
 
-# Let's make one question.
-qno = random.randint(0, len(questions))
-cur.execute("select image from question where rowid=?", (qno,))
-qimg_name = cur.fetchone()[0]
+def make_question():
+  # Let's make one question.
+  qno = random.randint(0, len(questions))
+  cur.execute("select image from question where rowid=?", (qno,))
+  qimg_name = cur.fetchone()[0]
 
-# Select unique 4 wrong choices.
-# If answer is chosen, invalidate the selection, and try again.
-choices = []
-while len(choices) != 4:
-  for i in range(4):
-    choices.append(random.randint(0,len(answers))+1 )
-  stest = set(choices)
+  # Select unique 4 wrong choices.
+  # If answer is chosen, invalidate the selection, and try again.
+  choices = []
+  while len(choices) != 4:
+    for i in range(4):
+      choices.append(random.randint(0,len(answers))+1 )
+    stest = set(choices)
 
-  # If there was a duplicate choices selected, invalidate
-  if len(stest) != len(choices):
-    choices = []
+    # If there was a duplicate choices selected, invalidate
+    if len(stest) != len(choices):
+      choices = []
 
-  # If 4 wrong choices contain the answer, invalidate
-  if questions[qimg_name] in choices:
-    choices = []
+    # If 4 wrong choices contain the answer, invalidate
+    if questions[qimg_name] in choices:
+      choices = []
 
-# And then, add the right choice.
-choices.append(questions[qimg_name])
+  # And then, add the right choice.
+  choices.append(questions[qimg_name])
+  random.shuffle(choices)
+  correct_answer = 0
+  for i in range(5):
+    if choices[i] == questions[qimg_name]:
+      correct_answer = i+1
 
-random.shuffle(choices)
+  # Present the question:
+  cmd = "/usr/bin/tycat image/" + qimg_name
+  os.system(cmd)
 
-# Present the question:
-cmd = "/usr/bin/tycat image/" + qimg_name
-os.system(cmd)
+  for i in range(len(choices)):
+    print(f"{i+1}) {answers[choices[i]][0] }")
+    print("")
 
-for i in range(len(choices)):
-  print(f"{i+1}) {answers[choices[i]][0] }")
-  print("")
+  # The answer will be returned (1-5)
+  return correct_answer 
+
+
+# Real game starts here
+score =0
+for i in range(10):
+  ans = make_question()
+  user = input("Choose: ")
+  if int(user) == ans:
+    print("CORRECT!")
+    score += 1
+  else:
+    print(f"Incorrect...  Answer is {ans}.")
+
+print(f"You got {score} out of 10 correct.")
+if score == 10:
+  print("You are ready!")
+else:
+  print("You are not ready yet.")
