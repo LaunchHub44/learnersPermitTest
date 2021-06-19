@@ -87,9 +87,10 @@ def make_question():
 score =0
 for i in range(10):
   ans = make_question()
-  user = input("Choose: ")
+  user = input(f"Question {i+1}. Choose: ")
   if int(user) == ans:
     print("CORRECT!")
+    print("")
     score += 1
   else:
     print(f"Incorrect...  Answer is {ans}.")
