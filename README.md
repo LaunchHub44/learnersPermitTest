@@ -1,6 +1,6 @@
 # Jake's Learner Permit Test Quiz
 
-This works in Terminator E17 terminal.
+This works in Terminology E17 terminal.
 That terminal can show image inside of terminal emulator.
 
 ### TODO list
