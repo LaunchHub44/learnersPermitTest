@@ -3,6 +3,11 @@
 This works in Terminology E17 terminal.
 That terminal can show image inside of terminal emulator.
 
+## How to execute:
+
+1. open terminology 
+2. `python3 learn.py`
+
 ### TODO list
 
 - Get sign images.
